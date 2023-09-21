@@ -11,8 +11,7 @@
 
 #char_to_string()
 
-# Ivan Shopov reshenie
-
+# 2.
 first_character = input()
 second_character = input()
 third_character = input()

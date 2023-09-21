@@ -1,5 +1,3 @@
-# SLICING [start:end:step]
-
 #first_string = input()
 #second_string = input()
 #last_string = first_string
@@ -13,7 +11,7 @@
 #    last_string = curr_word
 
 
-# Reshenie Ivan Shopov
+# 2. 
 
 first_string = input()
 second_string = input()

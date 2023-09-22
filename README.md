@@ -1,5 +1,5 @@
-# Programming Fundamentals with Python
-# Software University -> softuni.bg
+# Software University - Programming Fundamentals with Python
+
 
 
 # Basic Syntax, Conditional Statements and Loops
@@ -15,6 +15,7 @@
 # Exercise: Functions
 
 # Bitwise Operations
+
 # Lists Advanced
 # Exercise: Lists Advanced
 

@@ -1,30 +1,16 @@
-
-number_of_orders = int(input())
-total_price = 0
-
-for order in range(number_of_orders):
-    price_per_capsule = float(input())
-    days = int(input())
-    amount_of_capsules_per_day = int(input())
-    if price_per_capsule < 0.01 or price_per_capsule > 100:
-        continue
-    elif days < 1 or days > 31:
-        continue
-    elif amount_of_capsules_per_day < 1 or amount_of_capsules_per_day > 2000:
-        continue
-    price = price_per_capsule * days * amount_of_capsules_per_day
-    total_price += price
-    print(f'The price for the coffee is: ${price:.2f}')
-print(f'Total: ${total_price:.2f}')
+def total_price_of_order(order_type, order_quantity):
+    total_price = None
+    if order_type == "coffee":
+        total_price = order_quantity * 1.50
+    elif order_type == "coke":
+        total_price = order_quantity * 1.40
+    elif order_type == "water":
+        total_price = order_quantity * 1.00
+    elif order_type == "snacks":
+        total_price = order_quantity * 2.00
+    return total_price
 
 
-
-
-
-
-
-
-
-
-
-
+product = input()
+quantity = int(input())
+print(f'{total_price_of_order(product, quantity):.2f}')

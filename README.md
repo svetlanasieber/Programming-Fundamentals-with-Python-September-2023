@@ -19,6 +19,8 @@
 # Lists Advanced
 # Exercise: Lists Advanced
 
+# Regular Mid Exam
+
 # Objects and Classes
 # Exercise: Objects and Classes
 
@@ -31,5 +33,6 @@
 # Regular Expressions
 # Exercise: Regular Expressions
 
+# Regular Final Exam
 
 

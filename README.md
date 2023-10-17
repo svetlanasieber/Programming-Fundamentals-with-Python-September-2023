@@ -1,4 +1,4 @@
-# Software University (softuni.bg) - Programming Fundamentals with Python September 2023
+# Software University (softuni.bg) - Programming Fundamentals with Python
 # All Tasks are validated in the SoftUni Judge system: judge.softuni.org
 
 ![software-university-logo-2D117356A9-seeklogo com](https://github.com/svetlanasieber/Python-Fundamentals/assets/135451084/1c4cc821-5ad7-48ee-838e-7e4f46d547a5)

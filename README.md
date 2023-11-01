@@ -17,7 +17,7 @@
 - **Platform**: All tasks found in this repository are assessed through the [SoftUni Judge system](https://judge.com).
 - **Grading**: Tasks are graded based on functionality, code quality, and adherence to requirements.
 
-> 🚫 **Disclaimer**: Please note that the code provided here is for educational purposes. Plagiarism is discouraged.
+> 🚫 **Disclaimer**: Please note that the code provided here is for educational purposes.
 
 
 # Basic Syntax, Conditional Statements and Loops
